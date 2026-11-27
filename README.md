@@ -4,7 +4,7 @@
 
 I'm a **Security Engineer at NTQ** (since July 2026) and a cybersecurity student at Hanoi University of Science and Technology. I explore how AI and automation can support security research and reduce repetitive work, while developing the security foundations needed to understand and verify the results.
 
-[Portfolio & writing](https://vuvannam-sec.github.io/) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam-sec) · [Email](mailto:vuvannam.sec@gmail.com)
+[Portfolio & writing](https://namvuvan-research.github.io/) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam-sec) · [Email](mailto:vuvannam.sec@gmail.com)
 
 ## What I'm exploring
 
@@ -16,8 +16,8 @@ I'm a **Security Engineer at NTQ** (since July 2026) and a cybersecurity student
 
 | Finding | What I investigated | Status |
 | --- | --- | --- |
-| [Genspark AI Chat](https://vuvannam-sec.github.io/posts/genspark-stored-xss/) | Stored XSS through unsanitized AI-generated output in shared conversations. | Disclosed and fixed |
-| [Cốc Cốc Dictionary & Translate extension](https://vuvannam-sec.github.io/posts/coccoc-dom-xss/) | DOM-based XSS caused by unsafe handling of selected text. | Disclosed and fixed |
+| [Genspark AI Chat](https://namvuvan-research.github.io/posts/genspark-stored-xss/) | Stored XSS through unsanitized AI-generated output in shared conversations. | Disclosed and fixed |
+| [Cốc Cốc Dictionary & Translate extension](https://namvuvan-research.github.io/posts/coccoc-dom-xss/) | DOM-based XSS caused by unsafe handling of selected text. | Disclosed and fixed |
 
 Received a thank-you from GitLab on [HackerOne](https://hackerone.com/vuvannam-sec).
 
@@ -25,10 +25,10 @@ Received a thank-you from GitLab on [HackerOne](https://hackerone.com/vuvannam-s
 
 | Project | Description |
 | --- | --- |
-| [AI-Based Security Enhancements](https://github.com/vuvannam-sec/AI-Based-Security-Enhancements) | Linux host-monitoring research prototype using telemetry, ML, and rules. |
-| [VPN Traffic Detection](https://github.com/vuvannam-sec/vpn-detector-traffic-analysis) | Experimental classification of VPN and non-VPN network flows. |
-| [RubyGYM](https://github.com/vuvannam-sec/rubygym) | AI-assisted academic web app with Semgrep, Trivy, and OWASP ZAP checks in CI. |
-| [Security Write-ups](https://github.com/vuvannam-sec/security-writeups) | Public vulnerability reports and research notes. |
+| [AI-Based Security Enhancements](https://github.com/namvuvan-research/AI-Based-Security-Enhancements) | Linux host-monitoring research prototype using telemetry, ML, and rules. |
+| [VPN Traffic Detection](https://github.com/namvuvan-research/vpn-detector-traffic-analysis) | Experimental classification of VPN and non-VPN network flows. |
+| [RubyGYM](https://github.com/namvuvan-research/rubygym) | AI-assisted academic web app with Semgrep, Trivy, and OWASP ZAP checks in CI. |
+| [Security Write-ups](https://github.com/namvuvan-research/security-writeups) | Public vulnerability reports and research notes. |
 
 ## Tools and methods
 
