@@ -1,8 +1,8 @@
 # Vũ Văn Nam
 
-**Security research · AI-assisted workflows · Application security**
+**Security Engineer · Application Security · AI for Security**
 
-I'm a **Security Engineer at NTQ** (since July 2026) and a cybersecurity student at Hanoi University of Science and Technology. I explore how AI and automation can support security research and reduce repetitive work, while developing the security foundations needed to understand and verify the results.
+I'm a **Security Engineer at NTQ** (since July 2026) and a cybersecurity student at Hanoi University of Science and Technology. I focus on application security and responsible disclosure, explore AI-assisted security workflows, and study the security of LLM applications and agents. My approach emphasizes reproducible evidence and explicit limitations.
 
 [Portfolio & writing](https://namvuvan-research.github.io/) · [LinkedIn](https://www.linkedin.com/in/namvuvan-security) · [HackerOne](https://hackerone.com/vuvannam-sec) · [Email](mailto:vuvannam.sec@gmail.com)
 
